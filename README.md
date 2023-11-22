@@ -96,7 +96,7 @@ Repository | Description
 
 ## Need more ?
 
-Follow **anoop6996** on your favorite social media to get daily updates on interesting GitHub repositories related to Security.
+Follow **Anoop6996** on your favorite social media to get daily updates on interesting GitHub repositories related to Security.
  - linkedin : https://www.linkedin.com/in/anoop-kumar-864235145/
    
 
